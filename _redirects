@@ -1,7 +1,0 @@
-# Cloudflare Pages redirects
-# 형식: source  destination  status
-
-# 동일 도메인 내 trailing slash 정규화
-/whitevine          /whitevine/         301
-/whitevine/terms    /whitevine/terms.html    200
-/whitevine/privacy  /whitevine/privacy.html  200
